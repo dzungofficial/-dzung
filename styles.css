@@ -21,7 +21,7 @@
 
 /* Theme Toggle */
 .theme-toggle {
-    position: fixed;
+    position: moved;
     bottom: 2rem;
     right: 100px;
     background: var(--primary-color);
